@@ -1,0 +1,24 @@
+{
+  "name": "Rater",
+  "developer": "Andrew Connor",
+  "version": 1,
+  "createdOn": "March 31, 2016 09:18:00",
+  "binder": "binder.js",
+  "template": "view.html",
+  "dependencies": {
+    "javascript": [
+      "dependencies/jquery.barrating.min.js"
+    ],
+    "css": [
+      "dependencies/themes/bars-1to10.css",
+      "dependencies/themes/bars-horizontal.css",
+      "dependencies/themes/bars-movie.css",
+      "dependencies/themes/bars-pill.css",
+      "dependencies/themes/bars-reversed.css",
+      "dependencies/themes/bars-square.css",
+      "dependencies/themes/bootstrap-stars.css",
+      "dependencies/themes/css-stars.css",
+      "dependencies/themes/fontawesome-stars.css"
+    ]
+  }
+}
